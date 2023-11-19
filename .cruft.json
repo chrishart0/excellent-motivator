@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/gaganpreet/fastapi-starter",
+  "commit": "429c98130a477f6481081d34d1a7a7645cc8ae85",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Excellent Motivator",
+      "project_slug": "excellent-motivator",
+      "backend_port": "8010",
+      "frontend_port": "3010",
+      "_copy_without_render": [
+        "*node_modules",
+        "*src/App.tsx",
+        "*pages/ProfileEdit.tsx"
+      ],
+      "_template": "https://github.com/gaganpreet/fastapi-starter"
+    }
+  },
+  "directory": null
+}

@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  backend:
+    image: "excellent-motivator-backend:latest"
+
+  frontend:
+    image: "excellent-motivator-frontend:latest"
